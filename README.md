@@ -1,4 +1,4 @@
-##Problem Statement:
+Problem Statement:
 
 Recruiting and retaining drivers is seen by industry watchers as a tough battle for Ola. Churn among drivers is high and it’s very easy for drivers to stop working for the service on the fly or jump to Uber depending on the rates.
 
@@ -9,3 +9,5 @@ You are working as a data scientist with the Analytics Department of Ola, focuse
 	Demographics (city, age, gender etc.)
 	Tenure information (joining date, Last Date)
 	Historical data regarding the performance of the driver (Quarterly rating, Monthly business acquired, grade, Income)
+
+Skills: Classification using Random Forest, GBDT, Logistic Regression
